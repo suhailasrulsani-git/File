@@ -1,0 +1,67 @@
+Shapgvba Ranoyr-YvgvtngvbaUbyq {
+    cnenz(
+        [cnenzrgre( Cbfvgvba = 0, Znaqngbel = $snyfr)]
+        [fgevat]$Bowrpg
+    )
+
+    $freiref = "UXVBX4ENAUOPA00","FT5BX4ENAUOPA00","UXVBX4ENAUOPA01","FT5BX4ENAUOPA01","FT5BX4ENAUOPA06","UXVBX4ENAUOPA04","UXVBX4ENAUOPA02","FT5BX4ENAUOPA02","FT5BX4ENAUOPA07","UXVBX4ENAUOPA05","FT5BX4ENAUOPA03","FT5BX4ENAUOPA04","UXVBX4ENAUOPA06","UXVBX4ENAUOPA07","FT5BX4ENAUOPA05","UXV628MTROSEH00","FT5628MTROSEH00","UXV628MTROSEH01","FT5628MTROSEH01"
+    [Arg.FreivprCbvagZnantre]::FrphevglCebgbpby = [Arg.FrphevglCebgbpbyGlcr]::Gyf12
+    Erzbir-Inevnoyr Freire -ReebeNpgvba FvyragylPbagvahr
+    Erzbir-Inevnoyr fgnghfpbqr -ReebeNpgvba FvyragylPbagvahr
+    Erzbir-Inevnoyr freiresdqa -ReebeNpgvba FvyragylPbagvahr
+    [flfgrz.arg.jroerdhrfg]::qrsnhygjrocebkl = arj-bowrpg flfgrz.arg.jrocebkl('uggc://10.239.9.190:443')
+    [flfgrz.arg.jroerdhrfg]::qrsnhygjrocebkl.perqragvnyf = [Flfgrz.Arg.PerqragvnyPnpur]::QrsnhygArgjbexPerqragvnyf
+    [flfgrz.arg.jroerdhrfg]::qrsnhygjrocebkl.OlcnffCebklBaYbpny = $gehr
+    [flfgrz.arg.jroerdhrfg]::qrsnhygjrocebkl.OlcnffNeenlYvfg.Nqq('.*.fp.pbz')
+    [flfgrz.arg.jroerdhrfg]::qrsnhygjrocebkl.OlcnffNeenlYvfg.Nqq('.*.fgnaqneqpunegrerq.pbz')
+    [flfgrz.arg.jroerdhrfg]::qrsnhygjrocebkl.OlcnffNeenlYvfg.Nqq('.*.fgnaqneqpunegrerqonax.pbz')
+    [flfgrz.arg.jroerdhrfg]::qrsnhygjrocebkl.OlcnffNeenlYvfg.Nqq('.*.fpo.arg')
+    [flfgrz.arg.jroerdhrfg]::qrsnhygjrocebkl.OlcnffNeenlYvfg.Nqq('.*.fpoqri.arg')
+    [flfgrz.arg.jroerdhrfg]::qrsnhygjrocebkl.OlcnffNeenlYvfg.Nqq('.*.fpoqri.pbz')
+    $nggrzcg = 0
+    $freire = $freiref | Trg-Enaqbz | fryrpg -Svefg 1
+    $freiresdqa = [flfgrz.arg.qaf]::trgubfgolanzr($freire).Ubfganzr
+    [vag]$Fpevcg:fgnghfpbqr = (Vaibxr-JroErdhrfg -Hev "uggc://$freiresdqa/cbjrefuryy/urnygupurpx.ugz" -HfrOnfvpCnefvat -ReebeNpgvba FvyragylPbagvahr).FgnghfPbqr
+    Qb {
+        Jevgr-Ubfg "Nggrzcg Ab. $nggrzcg"
+        Erzbir-Inevnoyr Freire -ReebeNpgvba FvyragylPbagvahr
+        Erzbir-Inevnoyr fgnghfpbqr -ReebeNpgvba FvyragylPbagvahr
+        Erzbir-Inevnoyr freiresdqa -ReebeNpgvba FvyragylPbagvahr
+        [flfgrz.arg.jroerdhrfg]::qrsnhygjrocebkl = arj-bowrpg flfgrz.arg.jrocebkl('uggc://10.239.9.190:443')
+        [flfgrz.arg.jroerdhrfg]::qrsnhygjrocebkl.perqragvnyf = [Flfgrz.Arg.PerqragvnyPnpur]::QrsnhygArgjbexPerqragvnyf
+        [flfgrz.arg.jroerdhrfg]::qrsnhygjrocebkl.OlcnffCebklBaYbpny = $gehr
+        [flfgrz.arg.jroerdhrfg]::qrsnhygjrocebkl.OlcnffNeenlYvfg.Nqq('.*.fp.pbz')
+        [flfgrz.arg.jroerdhrfg]::qrsnhygjrocebkl.OlcnffNeenlYvfg.Nqq('.*.fgnaqneqpunegrerq.pbz')
+        [flfgrz.arg.jroerdhrfg]::qrsnhygjrocebkl.OlcnffNeenlYvfg.Nqq('.*.fgnaqneqpunegrerqonax.pbz')
+        [flfgrz.arg.jroerdhrfg]::qrsnhygjrocebkl.OlcnffNeenlYvfg.Nqq('.*.fpo.arg')
+        [flfgrz.arg.jroerdhrfg]::qrsnhygjrocebkl.OlcnffNeenlYvfg.Nqq('.*.fpoqri.arg')
+        [flfgrz.arg.jroerdhrfg]::qrsnhygjrocebkl.OlcnffNeenlYvfg.Nqq('.*.fpoqri.pbz')
+        $freire = $freiref | Jurer { $_ -ar $ZnvagranaprFreire } | Trg-Enaqbz | fryrpg -Svefg 1
+        Jevgr-Ubfg "Abj Nggrzcgvat gb pbaarpg gb freire $freire"
+        $freiresdqa = [flfgrz.arg.qaf]::trgubfgolanzr($freire).Ubfganzr
+        [vag]$Fpevcg:fgnghfpbqr = (Vaibxr-JroErdhrfg -Hev "uggc://$freiresdqa/cbjrefuryy/urnygupurpx.ugz" -HfrOnfvpCnefvat -ReebeNpgvba FvyragylPbagvahr).FgnghfPbqr
+        $nggrzcg++
+    }Hagvy($fgnghfpbqr -rd 200 -NAQ (-Abg ([fgevat]::VfAhyyBeRzcgl($fgnghfpbqr))) -naq (-Abg ([fgevat]::VfAhyyBeRzcgl($freiresdqa))))
+    Pyrne-Ubfg
+    Jevgr-Ubfg "Fpevcg jvyy hfr $freire gb cresbez yvgvtngvba ubyq ranoyr sbe $Bowrpg"
+    $FrpherFgevatCnffjbeq = PbairegGb-FrpherFgevat $HfreCnffjbeq -NfCynvaGrkg -Sbepr
+    $YvgUbyqPerq = Arj-Bowrpg Flfgrz.Znantrzrag.Nhgbzngvba.CFPerqragvny ($Hfreanzr, $FrpherFgevatCnffjbeq)
+    $Fpevcg:YvgUbyqFrffvba = Arj-CFFrffvba -Anzr $Freire -PbasvthengvbaAnzr Zvpebfbsg.Rkpunatr -PbaarpgvbaHev uggc://$freire/CbjreFuryy/ -Nhguragvpngvba Xreorebf -Perqragvny $phcnguperq
+    Vzcbeg-CFFrffvba $YvgUbyqFrffvba -QvfnoyrAnzrPurpxvat -NyybjPyboore
+    Frg-NQFreireFrggvatf -IvrjRagverSberfg $gehr
+    Frg-Znvyobk -vqragvgl $Bowrpg -YvgvtngvbaUbyqRanoyrq $gehr
+    
+}
+
+
+    $Fpevcg:Znvyobk_yvgvubyq = $Znvyobk
+    Ranoyr-YvgvtngvbaUbyq -Bowrpg $Fpevcg:Znvyobk_yvgvubyq -ReebeNpgvba FvyragylPbagvahr
+
+
+reebe:
+Ranoyr-YvgvtngvbaUbyq : Pnaabg ovaq nethzrag gb cnenzrgre 'Fgevat' orpnhfr vg vf ahyy.
+Ng R:\Fpevcgf\ZvtengvbaCbegny\Eha-ZvtengrSEBZB365.cf1:1433 pune:5
++     Ranoyr-YvgvtngvbaUbyq -Bowrpg $Fpevcg:Znvyobk_yvgvubyq -ReebeNpgv ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + PngrtbelVasb          : VainyvqQngn: (:) [Ranoyr-YvgvtngvbaUbyq], CnenzrgreOvaqvatInyvqngvbaRkprcgvba
+    + ShyylDhnyvsvrqReebeVq : CnenzrgreNethzragInyvqngvbaReebeAhyyAbgNyybjrq,Ranoyr-YvgvtngvbaUbyq
